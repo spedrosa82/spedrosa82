@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @spedrosa82
-- 👀 I’m interested in becoming a self-taught developer.
+- 👀 I’m interested in becoming a developer.
 - 🌱 I’m currently learning the absolute basics
 - 💞️ I’m looking to collaborate on anything that will help me develop a greater understanding of coding/programming.
 - 📫 How to reach me: spedrosa82@gmail.com
