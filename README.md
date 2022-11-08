@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @spedrosa82
-- 👀 I’m interested in becoming a developer.
-- 🌱 I’m currently learning the absolute basics about html, css, and js.
+- 👀 Becoming a developer.
 - 💞️ I’m looking to collaborate on anything that will help me develop a greater understanding of coding/programming.
 - 📫 How to reach me: spedrosa82@gmail.com
 
